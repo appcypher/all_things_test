@@ -7,3 +7,4 @@ edition = "2018"
 hyper = { version = "0.14.15", features = ["full"] }
 tokio = { version = "1.15.0", features = ["full"] }
 regex = "1.5.4"
+mysql = "*"
